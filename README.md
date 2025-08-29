@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/KqEwICC.gif)
+![](https://i.imgur.com/iL2NP1x.gif)
 > 頻譜圖可以看出其基頻及泛音，也可以用用來分析樂器的起音、衰減、延音及釋音，應用在音樂合成上
